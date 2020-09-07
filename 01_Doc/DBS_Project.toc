@@ -1,0 +1,50 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{Abbildungsverzeichnis}{3}{section*.1}%
+\contentsline {section}{Tabellenverzeichnis}{4}{section*.2}%
+\contentsline {section}{\numberline {1}Einleitung}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Ausgangslage und Problemstellung}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Aufbau und Methodik}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Zielsetzung}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Datenmanagement}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Datennutzung}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Use Case}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Entscheidungsgrundlage}{6}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Datenarchitektur}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Datenadministration}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Datentechnik}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Übersicht Architektur des Projektes}{8}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Datenmodellierung}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Datenmodell}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Datenbankschema}{11}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Datenbanksprache}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Verbindungsaufbau}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Join}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Aggregation}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Gruppierung}{15}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Selektion und Projektion}{16}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Verschachtelung von Queries}{16}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Systemarchitektur}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Aufbau, Installation Server}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Quelle und Import der Daten}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Optimierung Performance}{19}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Schema}{19}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Queries}{19}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Indexing}{19}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Hardware}{20}{subsubsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.4}Sicherheitsaspekte}{20}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Netzwerk}{20}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Usermanagement}{20}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Applicationlayer}{21}{subsubsection.5.4.3}%
+\contentsline {section}{\numberline {6}Resultate}{22}{section.6}%
+\contentsline {subsection}{\numberline {6.1}User-Story}{22}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Auswertung Projektteam}{23}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Generelle Erkenntnisse}{23}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Kategorien}{27}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}Zugriff Webseite}{30}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Diskussion}{31}{section.7}%
+\contentsline {section}{\numberline {8}Rückblick}{32}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Beiträge}{32}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Erkentnisse}{32}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Lessons Learned}{32}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Anhang}{34}{section.9}%
+\contentsline {section}{Literatur}{35}{section*.22}%

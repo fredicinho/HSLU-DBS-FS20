@@ -1,0 +1,178 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Data Pilot}%
+}{%
+{Data Pilot}%
+}{%
+{\protect \APACyear {{2019}}}%
+}]{%
+optimization}
+\APACinsertmetastar {%
+optimization}%
+\begin{APACrefauthors}%
+{Data Pilot}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2019}}{}{}.
+\newblock
+\APACrefbtitle {{Aggregation Pipeline Optimization}.} {{Aggregation Pipeline
+  Optimization}.}
+\newblock
+\APAChowpublished
+  {\url{https://kb.objectrocket.com/mongo-db/how-to-create-an-index-for-a-mongodb-collection-in-python-371}}.
+\newblock
+\APACrefnote{{Online; accessed 10-Mai-2020}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Dinesh Prathap}%
+}{%
+{Dinesh Prathap}%
+}{%
+{\protect \APACyear {{2015}}}%
+}]{%
+category}
+\APACinsertmetastar {%
+category}%
+\begin{APACrefauthors}%
+{Dinesh Prathap}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2015}}{}{}.
+\newblock
+\APACrefbtitle {{Youtube API Video Category Id List}.} {{Youtube API Video
+  Category Id List}.}
+\newblock
+\APAChowpublished {\url{https://gist.github.com/dgp/1b24bf2961521bd75d6c}}.
+\newblock
+\APACrefnote{{Online; accessed 10-April-2020}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Mitchell J}%
+}{%
+{Mitchell J}%
+}{%
+{\protect \APACyear {{2019}}}%
+}]{%
+dataset}
+\APACinsertmetastar {%
+dataset}%
+\begin{APACrefauthors}%
+{Mitchell J}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2019}}{}{}.
+\newblock
+\APACrefbtitle {{Trending YouTube Video Statistics}.} {{Trending YouTube Video
+  Statistics}.}
+\newblock
+\APAChowpublished {\url{https://www.kaggle.com/datasnaek/youtube-new/data}}.
+\newblock
+\APACrefnote{{Online; accessed 25-March-2020}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Mitchell J}%
+}{%
+{Mitchell J}%
+}{%
+{\protect \APACyear {{2020}}}%
+}]{%
+autor}
+\APACinsertmetastar {%
+autor}%
+\begin{APACrefauthors}%
+{Mitchell J}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2020}}{}{}.
+\newblock
+\APACrefbtitle {{Webseite Mitchell Jolly}.} {{Webseite Mitchell Jolly}.}
+\newblock
+\APAChowpublished {\url{https://mitchelljolly.com/}}.
+\newblock
+\APACrefnote{{Online; accessed 30-March-2020}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{mongoDB}%
+}{%
+{mongoDB}%
+}{%
+{\protect \APACyear {{2020}}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+mongoDB}
+\APACinsertmetastar {%
+mongoDB}%
+\begin{APACrefauthors}%
+{mongoDB}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2020}{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{Aggregation Pipeline Optimization}.} {{Aggregation Pipeline
+  Optimization}.}
+\newblock
+\APAChowpublished
+  {\url{https://docs.mongodb.com/manual/core/aggregation-pipeline-optimization/}}.
+\newblock
+\APACrefnote{{Online; accessed 10-Mai-2020}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{mongoDB}%
+}{%
+{mongoDB}%
+}{%
+{\protect \APACyear {{2020}}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+konfiguration}
+\APACinsertmetastar {%
+konfiguration}%
+\begin{APACrefauthors}%
+{mongoDB}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2020}{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{Install MongoDB Community Edition on Ubuntu}.} {{Install
+  MongoDB Community Edition on Ubuntu}.}
+\newblock
+\APAChowpublished
+  {\url{https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/}}.
+\newblock
+\APACrefnote{{Online; accessed 04-April-2020}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Projektteam}%
+}{%
+{Projektteam}%
+}{%
+{\protect \APACyear {{2020}}}%
+}]{%
+github}
+\APACinsertmetastar {%
+github}%
+\begin{APACrefauthors}%
+{Projektteam}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{2020}}{}{}.
+\newblock
+\APACrefbtitle {{Github Repository des Projekts}.} {{Github Repository des
+  Projekts}.}
+\newblock
+\APAChowpublished {\url{https://github.com/NicoIseli/Datenbanksysteme}}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
